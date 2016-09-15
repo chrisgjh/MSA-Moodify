@@ -54,3 +54,9 @@ input#my-file-selector {
 h4#track-name {
     display:none;
 }
+
+footer{
+    position:fixed;
+    bottom:20px;
+    right: 20px;
+}
